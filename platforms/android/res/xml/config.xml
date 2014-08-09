@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="net.thevoicelibrary.ares" version="0.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="net.thevoicelibrary.ares" version="0.0.16" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <preference name="loglevel" value="DEBUG" />
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
@@ -13,7 +13,7 @@
     </feature>
     <name>TVL Ares</name>
     <description>
-        Mobile version of TVL app
+        File Upload Proof of Concept
     </description>
     <author email="mftipton@yahoo.com" href="https://www.squirrelcagepc.com">
         Matthew Tipton
